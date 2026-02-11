@@ -12,7 +12,7 @@ This dashboard enables HR teams and business leaders to make **data-driven decis
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="HR_Analytics_Dashboard.png" width="1000">
+  <img src="bi.png" width="1000">
 </p>
 
 ---
